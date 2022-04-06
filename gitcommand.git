@@ -1,0 +1,18 @@
+ xyz.git
+ 
+ git clone xyz.git
+ git init 
+ 
+cd xyz
+ls /git status
+
+git checkout -b first bracnh
+git add */ file name.txt
+git status
+git commit -m "first commit"
+git push origin branch name
+git checkout barnch name
+git merge first branch
+git push orign main
+
+

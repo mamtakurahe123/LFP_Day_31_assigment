@@ -1,0 +1,10 @@
+create database name;
+show database;
+use database name();
+create table table_name;
+describe employee_payroll;
+show table;
+insert into tablename (`field_name`) value ("filed_value");
+select * from table_name;
+selcte filed table_name where (clouse or condition);
+alter table table_name condition;
